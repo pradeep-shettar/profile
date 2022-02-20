@@ -25,5 +25,5 @@ More about me
       - As part of my contribution here, I started working on Play Framework to develop 2 APIs for Kafka Message Consumption and Publishing of the messages.
       - Started using github here.
       - Little exposure to Oozie workflow, BigSQL.
-      - 
+     
 Also, I show some interest in mobile photography. Here is my :camera: [instagram profile](https://www.instagram.com/shettar20)
