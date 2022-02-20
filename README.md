@@ -7,7 +7,7 @@ I am.,
 - open for opportunities.
 
 More about me 
-- 🔭 I’m currently working as a software Developer in an [Fidelity Investment](https://www.linkedin.com/company/fidelity-investments/), with 
+- 🔭 I’m currently working as a software Developer in an [Fidelity Investments](https://www.linkedin.com/company/fidelity-investments/), with 
   - hands-on experience with Kafka message processing with Kafka Consumers and Kafka Producers.
   - experience in Scala and Akka programming. Good experience with use of Finite State Machines with Scala.
   - exposure to migrating onprem instances of microservices to AWS cloud.
