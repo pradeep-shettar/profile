@@ -26,7 +26,7 @@ More about me
       - Started using github here.
       - Little exposure to Oozie workflow, BigSQL.
      
-#### Available on
+#### Find me here and there
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
