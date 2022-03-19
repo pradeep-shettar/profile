@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Hi there
 
-You can use the [editor on GitHub](https://github.com/shettar20/shettar20/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am.,
+- currently working on **Java** and have good understanding of **REST, Kafka, Spring, Microservice, APIs**
+- learning **AWS, Scala and Akka** in depth.
+- open for opportunities.
 
 ### Markdown
 
