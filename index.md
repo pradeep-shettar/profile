@@ -15,11 +15,11 @@ I am
 
 ### Project Experience
   - 🔭 I’m currently working as a software Developer in an [Fidelity Investments](https://www.linkedin.com/company/fidelity-investments/), with 
-  - hands-on experience with Kafka message processing with Kafka Consumers and Kafka Producers.
-  - experience in Scala and Akka programming. Good experience with use of Finite State Machines with Scala.
-  - exposure to migrating onprem instances of microservices to AWS cloud.
-  - hands-on Automation of test cases in Postman, Fitnesse.
-  - experience on Junit tests with Mockito.
+    - hands-on experience with Kafka message processing with Kafka Consumers and Kafka Producers.
+    - experience in Scala and Akka programming. Good experience with use of Finite State Machines with Scala.
+    - exposure to migrating onprem instances of microservices to AWS cloud.
+    - hands-on Automation of test cases in Postman, Fitnesse.
+    - experience on Junit tests with Mockito.
   
   - 🌱 I started my career at [Mindtree Ltd](https://www.linkedin.com/company/mindtreeltd/), as a Fresher.[Past Experience]
     - Worked on an airline domain Project.
