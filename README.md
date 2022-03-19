@@ -26,4 +26,13 @@ More about me
       - Started using github here.
       - Little exposure to Oozie workflow, BigSQL.
      
-Also, I show some interest in mobile photography. Here is my :camera: [instagram profile](https://www.instagram.com/shettar20)
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+
+[1.1]: http://i.imgur.com/tXSoThF.png
+[2.1]: http://i.imgur.com/0o48UoR.png
+
+[1]: https://twitter.com/shettar20
+[2]: https://github.com/shettar20
+
