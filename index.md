@@ -36,12 +36,10 @@ I am
 
 
 #### Find me here and there
+[<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />][website]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-
-[1.1]: http://i.imgur.com/0o48UoR.png
-[2.1]: http://i.imgur.com/tXSoThF.png
-
-[1]: https://github.com/shettar20
-[2]: https://twitter.com/shettar20
+[website]: https://github.com/shettar20
+[twitter]: https://twitter.com/shettar20
+[linkedin]: https://www.linkedin.com/in/pradeep-shettar/
