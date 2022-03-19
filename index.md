@@ -9,7 +9,6 @@ I am.,
 - open for opportunities.
 
 ### Project Experience
-```markdown
   - 🔭 I’m currently working as a software Developer in an [Fidelity Investments](https://www.linkedin.com/company/fidelity-investments/), with 
   - hands-on experience with Kafka message processing with Kafka Consumers and Kafka Producers.
   - experience in Scala and Akka programming. Good experience with use of Finite State Machines with Scala.
@@ -28,5 +27,5 @@ I am.,
       - As part of my contribution here, I started working on Play Framework to develop 2 APIs for Kafka Message Consumption and Publishing of the messages.
       - Started using github here.
       - Little exposure to Oozie workflow, BigSQL.
-```
+      - 
 Also, I show some interest in mobile photography. Here is my :camera: [instagram profile](https://www.instagram.com/shettar20)
