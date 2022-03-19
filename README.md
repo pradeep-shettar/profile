@@ -26,6 +26,7 @@ More about me
       - Started using github here.
       - Little exposure to Oozie workflow, BigSQL.
      
+#### Available on
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
@@ -34,5 +35,4 @@ More about me
 [2.1]: http://i.imgur.com/0o48UoR.png
 
 [1]: https://twitter.com/shettar20
-[2]: https://github.com/shettar20
-
+[2]: https://github.com/shettar20****
