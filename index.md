@@ -6,7 +6,7 @@
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
-Hi there :wave: 
+Hi there :wave:
 
 I am
 - currently working on **Java** and have good understanding of **REST, Kafka, Spring, Microservice, APIs**
@@ -14,7 +14,7 @@ I am
 - open for opportunities.
 
 ### Project Experience
-  - 🔭 I’m currently working as a software Developer in an [Fidelity Investments](https://www.linkedin.com/company/fidelity-investments/), with 
+  - 🔭 I’m currently working as a software Developer at [Fidelity Investments](https://www.linkedin.com/company/fidelity-investments/), with 
     - hands-on experience with Kafka message processing with Kafka Consumers and Kafka Producers.
     - experience in Scala and Akka programming. Good experience with use of Finite State Machines with Scala.
     - exposure to migrating onprem instances of microservices to AWS cloud.
