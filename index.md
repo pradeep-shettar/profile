@@ -8,7 +8,7 @@
 
 Hi there :wave: 
 
-I am.,
+I am
 - currently working on **Java** and have good understanding of **REST, Kafka, Spring, Microservice, APIs**
 - learning **AWS, Scala and Akka** in depth.
 - open for opportunities.
@@ -36,3 +36,5 @@ I am.,
 
 
 Also, I show some interest in mobile photography. Here is my :camera: [instagram profile](https://www.instagram.com/shettar20)
+
+<a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by Laisa Islam Ani - Flaticon</a>
